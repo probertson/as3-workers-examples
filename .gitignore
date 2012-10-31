@@ -1,0 +1,42 @@
+# SVN directories
+.svn
+# osx noise
+**/.DS_Store
+.DS_Store
+*.pbxuser
+profile
+
+####
+# flexbuilder
+####
+
+**/bin-debug
+/bin-debug
+**/bin
+**/html-template
+.actionScriptProperties
+**/.actionScriptProperties
+.flexProperties
+**/.flexProperties
+.flexLibProperties
+**/.flexLibProperties
+.FlexUnitSettings
+**/.FlexUnitSettings
+.project
+**/.project
+.settings
+**/.settings
+.settings/*
+
+####
+# FlexUnit
+####
+FlexUnitApplication.mxml
+FlexUnitApplication-app.xml
+
+####
+# FlashDevelop
+####
+
+*.as3proj
+
